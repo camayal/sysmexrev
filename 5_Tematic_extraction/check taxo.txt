@@ -1,0 +1,8 @@
+#search id for each species
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=taxonomy&term=%22Jatropha%20curcas%22%20[Organism]
+
+
+#fetch info for each species
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=taxonomy&id=180498
+
+here extract
